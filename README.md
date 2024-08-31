@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HA-Kodes
-- 👀 I’m interested in becoming a full-stack web-developer
+- 👀 I'm on a journey of becoming a full-stack web-developer
 - 🌱 Now that I've gotten html / css under my belt, and the Basics of Java, I'm moving onto Java Core
 - 💞️ I’m looking to collaborate on as many projects as needed
 - 📫 Connect with me, however is easiest for you
