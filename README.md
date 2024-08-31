@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HA-Kodes
-- 👀 I’m interested in becoming a web-developer
+- 👀 I’m interested in becoming a full-stack web-developer
 - 🌱 Now that I've gotten html / css under my belt, and the Basics of Java, I'm moving onto Java Core
-- 💞️ I’m looking to collaborate on as many projects as i'm allowed
+- 💞️ I’m looking to collaborate on as many projects as needed
 - 📫 Connect with me, however is easiest for you
 - 😄 Look forward to some fun adventures together!
 - ⚡ Fun fact: Bet you can't wait to tell me ... muahahahahahahaha!!!
