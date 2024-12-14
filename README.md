@@ -1,9 +1,10 @@
-  ![image](https://github.com/user-attachments/assets/cdaf16e1-2ea7-4100-8198-e7e084011b84)
+![image](https://github.com/user-attachments/assets/f1ae6928-2c63-4547-875a-b4a3270214da)
 ## 👋 Hi there, I'm **HA, Bianconi**👋
-   Welcome to my GitHub profile!  I am a passionate developer who loves working on open-source projects and learning new technologies.
+   Welcome to my GitHub profile!
+   I am a creative software engineer, diving deep into the world of Java and loving every moment of the journey. Whether I'm working on open-source projects or exploring new technologies, I'm all about learning and growing. I warmly welcome any advice, tips, or insights from experienced developers. Let's connect and create / build something amazing together! 🚀
 
 ## Current Skills and Continue Stacking
-![Screenshot 2024-10-24 201844](https://github.com/user-attachments/assets/e3b84e34-1423-4582-bbdd-a7ca59f6164f)
+![image](https://github.com/user-attachments/assets/7122f273-fefb-40ec-9655-feaec15b0d3c)
 
 ## GitHub Stats
 
@@ -29,4 +30,4 @@ Coming Soon!  Meanwhile, please checkout my Repositories
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HA_Kodes-blue)](https://www.linkedin.com/in/ha-kodes)
 [![Twitter](https://img.shields.io/badge/Twitter-@HA_Kodes-blue)](https://twitter.com/HA_Kodes)
 
-![Alt Text](https://kratikal.com/blog/wp-content/uploads/2023/02/keyboard-typing-gif-7.gif)
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25xN2kwZ2xodHB1ZTZqaTJ5aW1sbTc3NGkyNjZuOWMza3N4aDB1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnolgxvZcJwdq4E/giphy.gif)  ![Alt Text](https://kratikal.com/blog/wp-content/uploads/2023/02/keyboard-typing-gif-7.gif)
