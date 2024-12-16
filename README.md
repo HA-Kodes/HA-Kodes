@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1ae6928-2c63-4547-875a-b4a3270214da)
-## 👋 Hi there, I'm **HA, Bianconi**👋
+## 👋 Hi there, I'm **Bianconi Ha**👋
    Welcome to my GitHub profile!
    I am a creative software engineer, diving deep into the world of Java and loving every moment of the journey. Whether I'm working on open-source projects or exploring new technologies, I'm all about learning and growing. I warmly welcome any advice, tips, or insights from experienced developers. Let's connect and create / build something amazing together! 🚀
 
