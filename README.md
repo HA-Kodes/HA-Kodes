@@ -29,4 +29,4 @@ Coming Soon!  Meanwhile, please checkout my Repositories
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HA_Kodes-blue)](https://www.linkedin.com/in/ha-kodes)
 [![Twitter](https://img.shields.io/badge/Twitter-@HA_Kodes-blue)](https://twitter.com/HA_Kodes)
 
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25xN2kwZ2xodHB1ZTZqaTJ5aW1sbTc3NGkyNjZuOWMza3N4aDB1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnolgxvZcJwdq4E/giphy.gif)  ![Alt Text](https://kratikal.com/blog/wp-content/uploads/2023/02/keyboard-typing-gif-7.gif)
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25xN2kwZ2xodHB1ZTZqaTJ5aW1sbTc3NGkyNjZuOWMza3N4aDB1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnolgxvZcJwdq4E/giphy.gif)
