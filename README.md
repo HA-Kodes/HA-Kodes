@@ -32,5 +32,3 @@ Coming Soon!  Meanwhile, please checkout my Repositories
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HA_Kodes-blue)](https://www.linkedin.com/in/ha-kodes)
 [![Twitter](https://img.shields.io/badge/Twitter-@HA_Kodes-blue)](https://twitter.com/HA_Kodes)<br>
 ![ezgif com-resize (3)](https://github.com/user-attachments/assets/286be2ff-4dd2-4e34-ac72-e8f95341adee)
-
-
