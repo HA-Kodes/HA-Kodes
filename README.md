@@ -62,11 +62,10 @@
 <p align="center">If you like what I've put together here, please give a thumbs up!
 <p align="center">
   <button id="thumbsUpButton" style="background-color: #f1c40f; border: none; border-radius: 5px; padding: 10px 20px; cursor: pointer; font-size: 16px; color: #fff;">
-    👍 Thumbs Up! <span id="thumbsUpCount"><br>
+    👍 Thumbs Up![Click here to give a Thumbs Up!](https://github.com/HA-Kodes/HA-Kodes/blob/main/counter.html)<span id="thumbsUpCount"><br>
       🌟 0 🌟</span>
   </button>
-</p>
 
-<a href="http://www.freecounterstat.com" target="_blank" title="free web counter">free web counter</a><br/>
-<script type="text/javascript" src="http://counter1.statcounterfree.com/private/countertab.js?c=a000000000b000000000c000000000d01&FCS_type=999&FCS_coef=0.9&FCS_visi=0&FCS_clic=1&FCS_rest=tabRT&FCS_resc=000000&FCS_plus=100"></script>
+
+[counter.html](https://github.com/HA-Kodes/HA-Kodes/blob/main/counter.html)
 
