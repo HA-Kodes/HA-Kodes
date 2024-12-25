@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thumbs Up Counter</title>
+    <style>
+        .counter {
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .counter span {
+            margin: 0 5px;
+        }
+        #thumbsUpButton {
+            background-color: #f1c40f;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+            color: #fff;
+            margin-top: 20px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="counter">
+        <span>👍</span>
+        <span id="count">0</span>
+    </div>
+    <div>
+        <button id="thumbsUpButton">Thumbs Up!</button>
+    </div>
+
+    <script>
+        let count = 0;
+        const button = document.getElementById('thumbsUpButton');
+        const counter = document.getElementById('count');
+
+        button.addEventListener('click', function() {
+            count++;
+            counter.textContent = count;
+        });
+    </script>
+</body>
+</html>
