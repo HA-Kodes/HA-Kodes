@@ -67,4 +67,6 @@
   </button>
 </p>
 
+<a href="http://www.freecounterstat.com" target="_blank" title="free web counter">free web counter</a><br/>
+<script type="text/javascript" src="http://counter1.statcounterfree.com/private/countertab.js?c=a000000000b000000000c000000000d01&FCS_type=999&FCS_coef=0.9&FCS_visi=0&FCS_clic=1&FCS_rest=tabRT&FCS_resc=000000&FCS_plus=100"></script>
 
