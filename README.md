@@ -3,7 +3,7 @@
    I am a creative software engineer, diving deep into the world of Java and savoring every moment of the journey. Whether it's developing projects or exploring new technologies, I'm dedicated to continuous learning and growth. I warmly welcome advice, tips, and insights from fellow developers. Let's connect and collaborate to build something truly amazing together! 🚀
 
 
-<h2 align="center">Top Languages | Skills and Stacking Still | GitHub Stats</h2>
+## Busy Working On ...
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f0de019f-3415-4242-9528-d8d8505eb621" alt="slim-running-gif" width="1000" style="max-width: 100%;" />
@@ -13,15 +13,15 @@
   <table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin: 0;">
     <tr>
       <td style="width: 33.33%; text-align: center; padding: 0;">
-        <h3 style="text-align: center; margin: 0;">Top Languages</h3>
+        <h3 style="text-align: center; margin: 0;">Languages Versatility</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HA-Kodes&layout=compact&theme=dark&title_color=ff6347&text_color=00ff00&bg_color=000000" alt="Top Langs" style="height: 150px; width: auto; max-width: 100%;" />
       </td>
       <td style="width: 33.33%; text-align: center; padding: 0;">
-        <h3 style="text-align: center; margin: 0;">Skills and Stacking Still</h3>
+        <h3 style="text-align: center; margin: 0;">Stackability</h3>
         <img src="https://github.com/user-attachments/assets/bf37499f-7279-4435-8712-5aad3b75b683" alt="New Image" style="height: 150px; width: auto; max-width: 100%;" />
       </td>
       <td style="width: 33.33%; text-align: center; padding: 0;">
-        <h3 style="text-align: center; margin: 0;">GitHub Stats</h3>
+        <h3 style="text-align: center; margin: 0;">increase GitHub Stats Tracker</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=HA-Kodes&show_icons=true&hide_title=true&count_private=true&theme=dark&title_color=ff6347&icon_color=ff6347&text_color=00ff00&bg_color=000000" alt="HA-Kodes's GitHub stats" style="height: 150px; width: auto; max-width: 100%;" />
       </td>
     </tr>
@@ -32,7 +32,7 @@
   <img src="https://github.com/user-attachments/assets/f0de019f-3415-4242-9528-d8d8505eb621" alt="slim-running-gif" width="1000" style="max-width: 100%;" />
 </p>
 
-## Projects
+## Projects: ![image](https://github.com/user-attachments/assets/a17869a5-fa2d-4525-a15d-03c708742a32)
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin: 0;">
   <tr>
@@ -57,10 +57,10 @@
   <img src="https://github.com/user-attachments/assets/286be2ff-4dd2-4e34-ac72-e8f95341adee" alt="new-gif" width="1000" style="max-width: 100%;" />
 </p>
 
-<h3 align="center">If you like what I've put together here, please give a thumbs up!
+<p align="center">If you like what I've put together here, please give a thumbs up!
 <p align="center">
   <button id="thumbsUpButton" style="background-color: #f1c40f; border: none; border-radius: 5px; padding: 10px 20px; cursor: pointer; font-size: 16px; color: #fff;">
     👍 Thumbs Up! <span id="thumbsUpCount"><br>
-       0</span>
+      🌟 0 🌟</span>
   </button>
 </p>
