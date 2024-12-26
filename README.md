@@ -62,7 +62,8 @@
 <p align="center">If you like what I've put together here, please give a thumbs up!
 <p align="center">
   <button id="thumbsUpButton" style="background-color: #f1c40f; border: none; border-radius: 5px; padding: 10px 20px; cursor: pointer; font-size: 16px; color: #fff;">
-     1. [Click here to give a Thumbs Up!](https://your-username.github.io/HA-Kodes/counter.html)
+     1. [Click here to give a Thumbs Up!](https://clik111.web.app/counter.html)
+
 
      2. [Click here to give a Thumbs Up!]counter.html
     👍 Thumbs Up!3. [Click here to give a Thumbs Up!](https://github.com/HA-Kodes/HA-Kodes/blob/main/counter.html)<span id="thumbsUpCount"><br>
