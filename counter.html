@@ -16,7 +16,7 @@
             margin: 0 5px;
         }
         #thumbsUpButton {
-            background-color: #f1c40f;
+            background-color: #f1c40f;  /* Ensure this color is not too light */
             border: none;
             border-radius: 5px;
             padding: 10px 20px;
@@ -27,6 +27,11 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
+            opacity: 1;  /* Ensure opacity is set to 1 */
+        }
+        #thumbsUpButton:disabled {
+            background-color: #d3d3d3;  /* Gray background for disabled state */
+            cursor: not-allowed;
         }
     </style>
 </head>
@@ -46,7 +51,7 @@
     <script>
         // Your web app's Firebase configuration
         var firebaseConfig = {
-            apiKey: "YOUR_GENERATED_API_KEY",
+            apiKey: "AIzaSyCvEcgoPuq9F1135oteUb845Kur5FXUXHo",
             authDomain: "clik111.firebaseapp.com",
             databaseURL: "https://clik111.firebaseio.com",
             projectId: "clik111",
@@ -75,3 +80,8 @@
     </script>
 </body>
 </html>
+
+
+ 
+
+  
