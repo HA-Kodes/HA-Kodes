@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to HA-Kodes</title>
+  <title>Counter Button</title>
   <!-- update the version number as needed -->
   <script defer src="/__/firebase/11.1.0/firebase-app-compat.js"></script>
   <!-- include only the Firebase features as you need -->
@@ -117,16 +117,17 @@
 
   <!-- Counter Button Implementation -->
   <div id="counter">
-    <button id="counterButton">Count: 0</button>
+    <button id="counterButton">Thumbs Up! Count: 0</button>
   </div>
   <script>
-    let count = 0;
-    const button = document.getElementById('counterButton');
-    button.addEventListener('click', () => {
-      count += 1;
-      button.textContent = `Count: ${count}`;
+    document.addEventListener('DOMContentLoaded', () => {
+      let count = 0;
+      const button = document.getElementById('counterButton');
+      button.addEventListener('click', () => {
+        count += 1;
+        button.textContent = `Thumbs Up! Count: ${count}`;
+      });
     });
   </script>
 </body>
 </html>
-
