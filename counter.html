@@ -39,15 +39,60 @@
         <button id="thumbsUpButton">Thumbs Up!</button>
     </div>
 
-    <script>
-        let count = 0;
-        const button = document.getElementById('thumbsUpButton');
-        const counter = document.getElementById('count');
+    <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js"></script>
 
-        button.addEventListener('click', function() {
-            count++;
-            counter.textContent = count;
+    <!-- Add Firebase products that you want to use -->
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-firestore.js"></script>
+
+    <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "YOUR_API_KEY",
+        authDomain: "clik111.firebaseapp.com",
+        projectId: "clik111",
+        storageBucket: "clik111.appspot.com",
+        messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+        appId: "YOUR_APP_ID"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      var db = firebase.firestore();
+
+      // Get reference to the counter
+      var counterRef = db.collection("counters").doc("thumbsUpCount");
+
+      // Update the counter when the button is clicked
+      document.getElementById("thumbsUpButton").addEventListener("click", function() {
+        counterRef.update({
+          count: firebase.firestore.FieldValue.increment(1)
+        }).then(function() {
+          // Get the updated count
+          counterRef.get().then(function(doc) {
+            if (doc.exists) {
+              document.getElementById("count").textContent = doc.data().count;
+            } else {
+              console.log("No such document!");
+            }
+          }).catch(function(error) {
+            console.log("Error getting document:", error);
+          });
+        }).catch(function(error) {
+          console.error("Error updating document: ", error);
         });
+      });
+
+      // Initial count fetch
+      counterRef.get().then(function(doc) {
+        if (doc.exists) {
+          document.getElementById("count").textContent = doc.data().count;
+        } else {
+          console.log("No such document!");
+        }
+      }).catch(function(error) {
+        console.log("Error getting document:", error);
+      });
     </script>
 </body>
 </html>
