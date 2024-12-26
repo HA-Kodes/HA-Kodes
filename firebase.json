@@ -1,0 +1,22 @@
+{
+  "hosting": {
+    "public": "HA-Kodes",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "database": {
+    "rules": {
+      ".read": "true",
+      ".write": "true"
+    }
+  }
+}
