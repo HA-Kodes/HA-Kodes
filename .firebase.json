@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "HA-Kodes",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "database": {
+    "rules": {
+      ".read": "true",
+      ".write": "true"
+    }
+  }
+}
