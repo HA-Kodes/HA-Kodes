@@ -58,5 +58,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/286be2ff-4dd2-4e34-ac72-e8f95341adee" alt="new-gif" width="1000" style="max-width: 100%;" />
 </p>
-<p align="center"; font-size: 6px">If you like what I've put together here, please give a thumbs up!</p>
-<div align="center"> <a href="https://clik111.web.app/counter.html"> 👍 Thumbs Up! </a> <br> 🌟 0 🌟 </div>
+<p align="center"; font-size: 6px">If you like what I've put together here<br>
+<div align="center">please click<a href="https://clik111.web.app/counter.html"> 👍 Thumbs Up! </a></p></div><br>
+<div align="center">🌟 0 🌟 </div>
