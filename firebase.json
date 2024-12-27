@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "HA-Kodes",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
