@@ -60,6 +60,5 @@
 </p>
 <p align="center"; font-size: 6px">If you like what I've put together here<br>
 
-<div align="center">please click<a href="https://clik111.web.app/counter.html"> 👍 Thumbs Up! </a></p></div><br>
-<iframe src="https://clik111.web.app/counter.html" width="300"
-<!-- <div align="center">🌟 0 🌟 </div> -->
+<div align="center">👍[![Counter Badge](https://img.shields.io/badge/Counter-Click%20Me-brightgreen)](https://ha-kodes.github.io/counter.html)👍</div><br>
+🌟 0 🌟
