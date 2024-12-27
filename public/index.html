@@ -3,6 +3,35 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Counter Button</title>
+</head>
+<body>
+  <h1>Counter Button Example</h1>
+  <button id="counterButton">Thumbs Up! Count: 0</button>
+
+  <script>
+    // Ensure JavaScript executes after the DOM is fully loaded
+    document.addEventListener('DOMContentLoaded', () => {
+      let count = 0; // Initial counter value
+      const button = document.getElementById('counterButton'); // Get button element
+      
+      // Add click event listener to button
+      button.addEventListener('click', () => {
+        count += 1; // Increment counter
+        button.textContent = `Thumbs Up! Count: ${count}`; // Update button text
+      });
+    });
+  </script>
+</body>
+</html>
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Counter Button Test</title>
 </head>
 <body>
@@ -21,3 +50,4 @@
   </script>
 </body>
 </html>
+ -->
