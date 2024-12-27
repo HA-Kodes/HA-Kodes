@@ -60,7 +60,6 @@
 </p>
 <p align="center"; font-size: 6px">If you like what I've put together here<br>
 
-<iframe src="https://HA-Kodes.github.io/index.html" width="300" height="100"></iframe>
-
 <div align="center">please click<a href="https://clik111.web.app/counter.html"> 👍 Thumbs Up! </a></p></div><br>
-<div align="center">🌟 0 🌟 </div>
+<iframe src="https://clik111.web.app/counter.html" width="300"
+<!-- <div align="center">🌟 0 🌟 </div> -->
