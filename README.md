@@ -60,10 +60,4 @@
 </p>
 
 <div align="center"> If you like what you see, click <a href="https://ha-kodes.github.io/counter.html" target="_blank">👍 Thumbs Up! 👍</a> </div>
-
-If you like what you see, give it a thumbs up! 👍
-<p align="center">[**Thumbs Up!**](https://ha-kodes.github.io/counter.html)
-
-<p align="center"; font-size: 6px">If you like what I've put together here<br>
-[**Thumbs Up!**](https://ha-kodes.github.io/counter.html)👍
 <p align="center"; font-size: 6px">🌟 0 🌟</p>
