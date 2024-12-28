@@ -58,6 +58,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/286be2ff-4dd2-4e34-ac72-e8f95341adee" alt="new-gif" width="1000" style="max-width: 100%;" />
 </p>
+
+[**Thumbs Up!**](https://ha-kodes.github.io/counter.html)
+
+If you like what you see, give it a thumbs up! 👍
+
 <p align="center"; font-size: 6px">If you like what I've put together here<br>
 👍[**Thumbs Up!**](https://ha-kodes.github.io/counter.html)👍<br>
 <p align="center"; font-size: 6px">🌟 0 🌟
