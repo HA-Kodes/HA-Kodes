@@ -1,0 +1,33 @@
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Fetch Counter Value from Firebase
+        run: |
+          npm install -g firebase-tools
+          firebase login:ci --token "$FIREBASE_TOKEN"
+          FIREBASE_COUNTER=$(firebase database:get --project "clik111" /thumbsUpCounter --token "$FIREBASE_TOKEN")
+
+      - name: Update README.md
+        run: |
+          sed -i "s/🌟 [0-9]* 🌟/🌟 $FIREBASE_COUNTER 🌟/g" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update counter in README"
+          git push
