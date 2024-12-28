@@ -59,5 +59,6 @@
   <img src="https://github.com/user-attachments/assets/286be2ff-4dd2-4e34-ac72-e8f95341adee" alt="new-gif" width="1000" style="max-width: 100%;" />
 </p>
 
-<div align="center"> If you like what you see, click <a href="https://ha-kodes.github.io/counter.html" target="_blank">👍 Thumbs Up! 👍</a> </div>
+<div align="center"> If you like what you see<br>
+   click <a href="https://ha-kodes.github.io/counter.html" target="_blank">👍 Thumbs Up! 👍</a> </div><br>
 <div align="center"> 🌟 0 🌟
