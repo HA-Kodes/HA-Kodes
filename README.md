@@ -1,6 +1,11 @@
 # 👋 Hi there ~ I'm **Ha, Bianconi**👋
 ## Welcome to my GitHub profile!
+
 I am a creative software engineer, diving deep into the world of Java and savoring every moment of the journey. Whether it's developing projects or exploring new technologies, I'm dedicated to continuous learning and growth. I warmly welcome advice, tips, and insights from fellow developers. Let's connect and collaborate to build something truly amazing together! 🚀
+
+<p align="center">
+<img src=https://github.com/user-attachments/assets/1b59b3da-e9c2-4446-bc87-aacb303820c3
+</p>
 
 <h2>Diligently Working On ...</h2>
 <p align="center">
