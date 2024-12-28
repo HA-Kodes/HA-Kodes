@@ -62,3 +62,4 @@
 <div align="center"> If you like what you see<br>
    click <a href="https://ha-kodes.github.io/counter.html" target="_blank">👍 Thumbs Up! 👍</a> </div><br>
 <div align="center"> 🌟 0 🌟
+</div>
