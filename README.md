@@ -1,12 +1,8 @@
 # 👋 Hi there ~ I'm **Ha, Bianconi**👋
-## Welcome to my GitHub profile!
+## Welcome to my GitHub profile!<p align="center"> ![burst](https://github.com/user-attachments/assets/b7de1676-c064-4963-b59e-a28a740eb55d)<br>
+I am a creative software engineer, diving deep into the world of Java and savoring every moment of the journey. Whether it's developing projects or exploring new technologies, I'm dedicated to continuous learning and growth. I warmly welcome advice, tips, and insights from fellow developers. Let's connect and collaborate to build something truly amazing together! </h4> 🚀
 
-I am a creative software engineer, diving deep into the world of Java and savoring every moment of the journey. Whether it's developing projects or exploring new technologies, I'm dedicated to continuous learning and growth. I warmly welcome advice, tips, and insights from fellow developers. Let's connect and collaborate to build something truly amazing together! 🚀
-
-<p align="center">
-<img src=https://github.com/user-attachments/assets/1b59b3da-e9c2-4446-bc87-aacb303820c3
-</p>
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/1b59b3da-e9c2-4446-bc87-aacb303820c3" </p>
 <h2>Diligently Working On ...</h2>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f0de019f-3415-4242-9528-d8d8505eb621" alt="slim-running-gif" width="1000" style="max-width: 100%;" />
@@ -58,7 +54,6 @@ I am a creative software engineer, diving deep into the world of Java and savori
 [![Twitter](https://img.shields.io/badge/Twitter-@HA_Kodes/TBA-blue)](https://twitter.com/HA-Kodes/)
 [![Chat](https://img.shields.io/badge/Chat-WhatsApp-blue?style=flat&logo=chat)](https://www.whatsapp.com/)
 [![EMAIL](https://img.shields.io/badge/Email-BianconiHa-blue?style=flat&logo=mail)](mailto:2bianconiha@gmail.com)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/286be2ff-4dd2-4e34-ac72-e8f95341adee" alt="new-gif" width="1000" style="max-width: 100%;" />
 </p>
