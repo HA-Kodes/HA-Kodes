@@ -64,5 +64,6 @@ I am a creative software engineer, diving deep into the world of Java and savori
 </p>
 
 <div align="center"> If you like what you see<br>click <a href="https://ha-kodes.github.io/counter.html" target="_blank">👍 Thumbs Up! 👍</a> </div>
-<div align="center"> 🌟 0 🌟</div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/396a7fd3-aeef-40e9-a47e-4ecfc0aa76a2"</div>
+
 
