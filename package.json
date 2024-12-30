@@ -1,4 +1,22 @@
 {
+  "name": "firebase-hosting",
+  "version": "0.1.0",
+  "description": "Firebase hosting",
+  "main": "index.js",
+  "scripts": {
+    "start": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^9.6.10"
+  },
+  "devDependencies": {},
+  "author": "HA-Kodes",
+  "license": "ISC"
+}
+
+
+{
   "dependencies": {
     "@genkit-ai/googleai": "^0.9.12",
     "genkit": "^0.9.12"
