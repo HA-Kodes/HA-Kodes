@@ -1,4 +1,4 @@
-# 👋 Hi there ~ I'm **Ha, Bianconi**👋
+# 👋 Hi there ~ I'm **Bianconi Ha**👋
 ## Welcome to my GitHub profile!<p align="center"> ![burst](https://github.com/user-attachments/assets/b7de1676-c064-4963-b59e-a28a740eb55d)<br>
 I am a creative software engineer, diving deep into the world of Java and savoring every moment of the journey. Whether it's developing projects or exploring new technologies, I'm dedicated to continuous learning and growth. I warmly welcome advice, tips, and insights from fellow developers. Let's connect and collaborate to build something truly amazing together! </h4> 🚀 </br>
 
@@ -59,5 +59,8 @@ I am a creative software engineer, diving deep into the world of Java and savori
 
 <div align="center"> If you like what you see<br>click <a href="https://ha-kodes.github.io/counter.html" target="_blank">👍 Thumbs Up! 👍</a> </div>
 <div align="center"> <img src="https://github.com/user-attachments/assets/396a7fd3-aeef-40e9-a47e-4ecfc0aa76a2"</div>
+
+Please consider [Star this repository](https://github.com/HA-Kodes/HA-Kodes) to show your support.
+
 
 
