@@ -57,11 +57,8 @@ I am a creative software engineer, diving deep into the world of Java and savori
   <img src="https://github.com/user-attachments/assets/286be2ff-4dd2-4e34-ac72-e8f95341adee" alt="new-gif" width="1000" style="max-width: 100%;" />
 </p>
 
-<div align="center"> If you like what you see<br>click <a href="https://ha-kodes.github.io/counter.html" target="_blank">👍 Thumbs Up! 👍</a> </div>
+<div align="center">
+  Click >>> 
+  <img src="https://img.shields.io/github/stars/HA-Kodes/HA-Kodes.svg?style=social" alt="GitHub stars"> <br> Show Your Support
+</div>
 <div align="center"> <img src="https://github.com/user-attachments/assets/396a7fd3-aeef-40e9-a47e-4ecfc0aa76a2"</div>
-
-Please consider ![GitHub stars](https://img.shields.io/github/stars/HA-Kodes/HA-Kodes.svg?style=social) to show your support.
-
-
-
-
